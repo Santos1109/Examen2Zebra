@@ -1,0 +1,3 @@
+C:/Users/saint/Desktop/Examen2Zebra-master/cmake-build-debug/CMakeFiles/Examen2Zebra_master.dir
+C:/Users/saint/Desktop/Examen2Zebra-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/saint/Desktop/Examen2Zebra-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
